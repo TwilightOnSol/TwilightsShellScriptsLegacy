@@ -1,8 +1,9 @@
-# TwilightsShellScriptsLegacy
+# Twilight's Shell Scripts Legacy
 
 ## Overview
-This repository is part of the TwilightOnSol ecosystem. It has been audited and refactored for better performance and maintainability.
+A collection of legacy shell scripts developed for Unix and Linux systems. These scripts cover various automation tasks, system management, and utility functions.
 
-## Project Structure
-- README.md
-- Manus AI feedback & overview
+## Features
+- **Automation**: Scripts for streamlining repetitive terminal tasks.
+- **System Utilities**: Tools for managing Linux environments.
+- **Legacy Archive**: A historical record of early automation workflows.
